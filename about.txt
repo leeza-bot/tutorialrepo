@@ -2,3 +2,9 @@ name - leza ravi
 semester- 3rd 
 branch - cse ai
 roll no - 303311325056
+
+TO DO List:-
+1.learn git and GitHub
+2.learn and practice java for project
+3.start the project
+4.test and deploy the project
